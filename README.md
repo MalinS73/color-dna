@@ -1,2 +1,1 @@
-# color-dna
-För att skapa mitt dna-spel för inlärning av färggenetiken på katt.
+[j[e,[m]%,[m<RegNo>]][e,[m]%
